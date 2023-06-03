@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/77505989/221367003-d115f5ba-87a4-4845-9faa-22bdddcb8df9.png" />
 </p>
-<!-- A simple firewall model that filters packets based on direction, protocol, port and ip address -->
+<!-- --A simple firewall model that filters packets based on direction, protocol, port and ip address-- -->
 
 <!-- I implemented the Firewall class in "firewall.py", and also wrote a unit test file in "firewall_test.py". Note that the unittest would
 load the file "fw.csv" as the dataset. -->
